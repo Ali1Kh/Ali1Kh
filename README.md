@@ -56,7 +56,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="[/assets/programmer.gif](https://github.com/alsiam/alsiam/blob/main/assets/programmer.gif)" alt="Coding gif" />
+ <img align="right" width="350" src="![programmer](https://github.com/Ali1Kh/Ali1Kh/assets/76965955/89637ac7-6c62-461f-84bd-e73f1da98165)" alt="Coding gif" />
   </p>
   
 <p align="center">
