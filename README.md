@@ -52,11 +52,7 @@ JavaScript, and React. Passionate about creating visually appealing and function
 <b>Available for remote and freelance work.</b>
 </em>
 </p>
-
 <br/>
-<br/>
-<br/>
-
  <!--
  # Technical Skills
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
