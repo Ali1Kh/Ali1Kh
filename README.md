@@ -55,16 +55,11 @@
 <!-- About Section -->
  # About me
  
-<p>
- <img align="right" width="350" src="![programmer](https://github.com/Ali1Kh/Ali1Kh/assets/76965955/89637ac7-6c62-461f-84bd-e73f1da98165)" alt="Coding gif" />
-  </p>
-  
 <p align="center">
-  <em>
-    Myself <b>Om Patel</b>, a final year <b>Computer Science</b> undergraduate from <b>Gandhinagar Insitute of Technology</b>, Gandhinagar.
-    An aspiring <b>UI / UX Designer,</b>&nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
-  <br>
-  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+<em>
+I'm Front-end developer building High Quality, User Friendly web applications. Proficient in HTML, CSS,
+JavaScript, and React. Passionate about creating visually appealing and functional web applications.
+<b>Available for remote and freelance work.</b>
 </p>
 
 <br/>
