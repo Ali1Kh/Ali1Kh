@@ -95,14 +95,14 @@ JavaScript, and React. Passionate about creating visually appealing and function
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,ruby,flask,fastapi,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,js,nestjs,docker" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
