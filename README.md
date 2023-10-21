@@ -107,7 +107,7 @@ JavaScript, and React. Passionate about creating visually appealing and function
   </a>
 </p>
 
-<h3>Extra Skills</h3>
+<h3>Extra</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,arduino" />
