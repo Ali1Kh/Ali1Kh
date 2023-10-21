@@ -1,11 +1,8 @@
 
 <h2 align="center">
-  Welcome to My Github Profile
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome+To+My+Github+Profile;I'm+Ali+Elsaadany;Front+End+Web+Developer" alt="Typing SVG" /></a>
 </h2>
 
-<!--<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=250&random=false&width=435&lines=I'm+Ali+Elsaadany;Front+End+Web+Developer" alt="Typing SVG" /></a>
-</p>-->
 
 <a href="https://komarev.com/ghpvc/?username=ali1kh">
   <img align="right" src="https://komarev.com/ghpvc/?username=ali1kh&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
