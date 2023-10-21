@@ -92,31 +92,32 @@ JavaScript, and React. Passionate about creating visually appealing and function
   </a>
 </p>
 
-- Backend
+
+<h3>Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,js,nestjs,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,js,nestjs" />
   </a>
 </p>
 
-- Database
+<h3>Database</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
-- Cloud Servers
+<h3>Extra Skills</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase" />
+    <img src="https://skillicons.dev/icons?i=java,arduino" />
   </a>
 </p>
 
-- Tools
+<h3>Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,figma,linux,idea,vscode,postman,termius,dbeaver,putty" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman" />
   </a>
 </p>
 <br/>
