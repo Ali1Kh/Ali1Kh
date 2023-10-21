@@ -120,26 +120,22 @@ JavaScript, and React. Passionate about creating visually appealing and function
   </a>
 </p>
 <br/>
+<hr/>
 
 
-<details>
-<summary>
-  ✨ Top Projects -
-</summary>
+<!--
+## Top Projects -
 
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
+[![Fresh Cart](https://github-readme-stats.vercel.app/api/pin/?username=ali1kh&repo=fresh-cart&border_color=36BCF7FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
 
 <p align="left">
   <a href="https://github.com/ali1kh?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-</details>
+-->
+
 
 
 <br/>
-<hr/>
 <br/>
 
 <p align="center">
