@@ -108,6 +108,7 @@ JavaScript, and React. Passionate about creating visually appealing and function
 
 <h3>Extra</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/java-4f7996?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black">
