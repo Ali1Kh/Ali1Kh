@@ -8,7 +8,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=ali1kh&label=Visitors&color=f24e1e&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018b51c2-85fb-4d4b-93c2-2e41856c88f8.svg)](https://wakatime.com/@018b51c2-85fb-4d4b-93c2-2e41856c88f8)
+[![wakatime](https://wakatime.com/badge/user/018b51c2-85fb-4d4b-93c2-2e41856c88f8.svg?style=plastic)](https://wakatime.com/@018b51c2-85fb-4d4b-93c2-2e41856c88f8)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -35,9 +35,8 @@
  <a href="https://linkedin.com/in/ali1kh" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ali"/>
  </a>
-<!-- twitter -->
  <a href="https://twitter.com/aly1kh" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
 </p>
 <br />
