@@ -35,8 +35,8 @@
  <a href="https://linkedin.com/in/ali1kh" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ali"/>
  </a>
- <a href="https://twitter.com/aly1kh" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />
+ <a href=mailto:"alielsaadany@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-f2f3f3?style=for-the-badge&logo=gmail" />
  </a>
 </p>
 <br />
