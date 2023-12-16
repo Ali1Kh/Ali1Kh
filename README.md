@@ -31,12 +31,15 @@
 <!-- <a href="https://ali1kh.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ali" />
  </a>-->
-<!-- linkedin -->
+
+   <a href="https://drive.google.com/file/d/1EW7agRsFs6Qzj19k0FHqQEWeU1s7erpy/view" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20Cv-092635?style=for-the-badge" alt="ali"/>
+ </a>
  <a href="https://linkedin.com/in/ali1kh" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ali"/>
  </a>
  <a href="mailto:alielsaadany94@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-f2f3f3?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
 </p>
 <br />
