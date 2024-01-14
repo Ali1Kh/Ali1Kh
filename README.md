@@ -107,16 +107,9 @@ I'm Full Stack Web Developer building seamless web experiences with proficiency 
 </p>
 <br/>
 <hr/>
-
-<br/>
-<br/>
-
-<!-- 
-<p align="center">
-  <a href="https://github.com/ali1kh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali1kh&theme=radical&border=7F3FBF&background=0D1117" alt="Ali's GitHub streak"/>
-  </a> 
- </p> -->
+<h1 align="center">
+<img src="https://github.com/Ali1Kh/Ali1Kh/blob/output/github-contribution-grid-snake-dark.svg">
+<h1/>
 
 <p align="center">
   <a href="https://github.com/ali1kh">
