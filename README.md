@@ -108,27 +108,15 @@ JavaScript, and React. Passionate about creating visually appealing and function
 <br/>
 <hr/>
 
-
-<!--
-## Top Projects -
-
-[![Fresh Cart](https://github-readme-stats.vercel.app/api/pin/?username=ali1kh&repo=fresh-cart&border_color=36BCF7FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-
-<p align="left">
-  <a href="https://github.com/ali1kh?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
--->
-
-
-
 <br/>
 <br/>
 
+<!-- 
 <p align="center">
   <a href="https://github.com/ali1kh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali1kh&theme=radical&border=7F3FBF&background=0D1117" alt="Ali's GitHub streak"/>
-  </a>
-</p>
+  </a> 
+ </p> -->
 
 <p align="center">
   <a href="https://github.com/ali1kh">
