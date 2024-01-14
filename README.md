@@ -108,7 +108,7 @@ I'm Full Stack Web Developer building seamless web experiences with proficiency 
 <br/>
 <hr/>
 <h1 align="center">
-<img src="https://github.com/Ali1Kh/Ali1Kh/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/Ali1Kh/Ali1Kh/blob/output/github-contribution-grid-snake.svg">
 <h1/>
 
 <p align="center">
