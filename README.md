@@ -49,8 +49,7 @@
  
 <p align="center">
 <em>
-I'm Front-end developer building High Quality, User Friendly web applications. Proficient in HTML, CSS,
-JavaScript, and React. Passionate about creating visually appealing and functional web applications.
+I'm Full Stack Web Developer building seamless web experiences with proficiency in the MERN stack. Proficient in front-end technologies like HTML, CSS, JavaScript, React.js, and back-end development with Node.js, Express.js and MongoDB. Passionate about creating user friendly and visually appealing and functional web applications.
 <b>Available for remote and freelance work.</b>
 </em>
 </p>
