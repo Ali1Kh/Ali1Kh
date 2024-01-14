@@ -50,6 +50,7 @@
 <p align="center">
 <em>
 I'm Full Stack Web Developer building seamless web experiences with proficiency in the MERN stack. Proficient in front-end technologies like HTML, CSS, JavaScript, React.js, and back-end development with Node.js, Express.js and MongoDB. Passionate about creating user friendly and visually appealing and functional web applications.
+  <br>
 <b>Available for remote and freelance work.</b>
 </em>
 </p>
