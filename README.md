@@ -107,6 +107,9 @@ I'm Full Stack Web Developer building seamless web experiences with proficiency 
 </p>
 <br/>
 <hr/>
+
+### GitHub Activity Graph :
+
 <h1 align="center">
 <img src="https://github.com/Ali1Kh/Ali1Kh/blob/output/github-contribution-grid-snake.svg">
 <h1/>
