@@ -5,7 +5,7 @@
 
 
 <a href="https://komarev.com/ghpvc/?username=ali1kh">
-  <img align="right" src="https://komarev.com/ghpvc/?username=ali1kh&label=Visitors&color=f24e1e&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=ali1kh&label=Visitors&color=f24e1e&style=plastic" alt="Profile visitor" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/018b51c2-85fb-4d4b-93c2-2e41856c88f8.svg?style=social)](https://wakatime.com/@018b51c2-85fb-4d4b-93c2-2e41856c88f8)
