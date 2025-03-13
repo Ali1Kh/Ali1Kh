@@ -28,10 +28,10 @@
 
 <!-- Website -->
 <p align="center"> 
- <a href="https://ali1kh.vercel.app" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-dd6f08?style=for-the-badge&logoColor=white" alt="ali" /></a>
+ <a href="https://ali1kh.com" target="_blank" ><img src="https://img.shields.io/badge/Portfolio-dd6f08?style=for-the-badge&logoColor=white" alt="ali" /></a>
  <a href="https://drive.google.com/file/d/1Ectu9pRa79CvceTY_t4lzrJ0u6NON-lV/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/View%20Cv-092635?style=for-the-badge" alt="ali"/></a>
  <a href="https://linkedin.com/in/ali1kh" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ali"/></a>
- <a href="mailto:info@ali1kh.tech" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="mailto:alielsaadany94@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <br />
 
